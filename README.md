@@ -4,6 +4,7 @@
 ---
 
 ## **English Version**
+(Avable only on v1.2.0 )
 
 Welcome to the world of cats! 🐾 One press of Enter turns your day into a fluffy adventure! 😸 This bold C++ console app downloads random cats from `https://cataas.com/cat` and opens them in your system viewer. No hassle, just cats and code — the way we love it! 🐱💻
 
