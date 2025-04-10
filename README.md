@@ -69,6 +69,7 @@ Our journey started with simple browser jumps and evolved into a convenient cat 
 Made with love for cats by a 2nd-year KDG student. Wrote the code ✍️, petted the cats 🐈, pressed Enter ▶️ — all by myself!
 
 ### License 📜
+This project is distributed under the MIT license. You are free to use, modify, and redistribute the code as long as you provide attribution.
 ```
 MIT License
 
