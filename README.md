@@ -69,8 +69,31 @@ Our journey started with simple browser jumps and evolved into a convenient cat 
 Made with love for cats by a 2nd-year KDG student. Wrote the code ✍️, petted the cats 🐈, pressed Enter ▶️ — all by myself!
 
 ### License 📜
-MIT License — take it, create, share cats with the world! 🌍😺
+```
+MIT License
 
+Copyright (c) 2025 KDG
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
 **Meow-meow and fluffy files to you!** 😽🎉
 
 ---
@@ -140,7 +163,33 @@ cl main.cpp /EHsc /link winhttp.lib shell32.lib
 Сделано с любовью к котам студентом второго курса KDG. Код писал ✍️, котов гладил 🐈, Enter нажимал ▶️ — всё сам!
 
 ### Лицензия 📜
-MIT License — берите, творите, делитесь котиками с миром! 🌍😺
+Этот проект распространяется под лицензией MIT. Вы можете свободно использовать, изменять и распространять код при условии указания авторства.
+
+```
+MIT License
+
+Copyright (c) 2025 KDG
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
 
 **Мяу-мяу и пушистых вам файлов!** 😽🎉
 
